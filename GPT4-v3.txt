@@ -1,0 +1,23 @@
+[1] Object: Book,        GPT4 Response: spine
+[2] Object: Laptop,        GPT4 Response: base
+[3] Object: Pen,        GPT4 Response: shaft
+[4] Object: Bag,        GPT4 Response: handle
+[5] Object: Schoolbag,        GPT4 Response: handle
+[6] Object: Bottle,        GPT4 Response: body
+[7] Object: Bottle with handle,        GPT4 Response: handle
+[8] Object: Water bottle with cap,        GPT4 Response: cap
+[9] Object: Keys,        GPT4 Response: keyring
+[10] Object: Scissors,        GPT4 Response: handle
+[11] Object: Glass,        GPT4 Response: base
+[12] Object: Screwdriver,        GPT4 Response: handle
+[13] Object: Fruit,        GPT4 Response: body
+[14] Object: Book with slippery cover,        GPT4 Response: spine
+[15] Object: Plush toy,        GPT4 Response: body
+[16] Object: Smartphone,        GPT4 Response: case
+[17] Object: Card deck,        GPT4 Response: body
+[18] Object: Soccer ball,        GPT4 Response: body
+[19] Object: Frying pan,        GPT4 Response: handle
+[20] Object: Umbrella,        GPT4 Response: handle
+[21] Object: Pair of glasses,        GPT4 Response: frame
+[22] Object: Flash drive,        GPT4 Response: body
+[23] Object: Envelope with letter,        GPT4 Response: body
